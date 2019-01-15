@@ -1,0 +1,16 @@
+#mewah{
+font-family : Cursive;
+color : #0000CD;
+text-align: center;
+}
+img {
+display : block;
+height : 300px;
+width : 300px;
+margin : auto;
+}
+#introducing{
+    font-family: garamond;
+    font-size: 50px;
+    text-align: center;
+}

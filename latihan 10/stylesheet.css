@@ -1,0 +1,22 @@
+img {
+display: block;
+height: 300px;
+width: 300px;
+margin: auto;
+}
+p{
+text-align : center;
+font-family: Garamond, serif;
+font-size: 25px;
+}
+div{
+height :35px;
+width: 180px;
+border-color : #6495ED;
+background-color: #BCD2EE;
+border-style: dashed;
+border-width : 2px;
+border-radius : 5px;
+margin : auto;
+text-align: center;
+}	

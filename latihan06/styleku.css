@@ -1,0 +1,11 @@
+h1{
+font-family : Verdana;
+} /*kode ini mengubah font kalimat tersebut menjadi font verdana */
+
+h3{
+font-family : Courier;
+} /*kode ini mengubah font kalimat tersebut menjadi font courier */
+
+p{
+color:black;
+} /*kode ini mengubah warna kalimat tersebut menjadi ungu.*/
